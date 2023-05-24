@@ -12,8 +12,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * 
  * @author dancye May 7, 2018
  */
-public class Student 
-{
+public class Student {
+    
     private String name;
 
     /**
@@ -28,6 +28,10 @@ public class Student
      */
     public void setName(String givenName) {
         name = givenName;
+    }
+    
+    public static void main (String[] args){
+        System.out.print("Hello");
     }
     
     
