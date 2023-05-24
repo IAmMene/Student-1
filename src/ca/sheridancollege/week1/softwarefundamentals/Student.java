@@ -29,10 +29,5 @@ public class Student {
     public void setName(String givenName) {
         name = givenName;
     }
-    
-    public static void main (String[] args){
-        System.out.print("Hello");
-    }
-    
-    
+ 
 }
