@@ -10,6 +10,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * with 5 students from the current section and then iterates over the
  * list to print each name.
  * @author dancye, Jan 2019
+ * Catch up idiot.
  */
 public class StudentList {
     
@@ -24,7 +25,7 @@ public class StudentList {
        {
            System.out.println(s.getName());
            System.out.println("Hello");
-           System.out.println("Hello again'); 
+           System.out.println("Hello again"); 
        }
         
     }
